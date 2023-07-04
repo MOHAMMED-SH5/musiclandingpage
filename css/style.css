@@ -1,0 +1,61 @@
+
+
+@font-face {
+    font-family: Open_Sans;
+    src: url(../font/Open_Sans/OpenSans-Regular.ttf);
+    
+}
+@font-face {
+    font-family: Pattaya;
+    src: url(../font/Pattaya/Pattaya-Regular.ttf);
+  }
+
+.bg-sec
+{
+    background-color: #F5F5F5;
+}
+.navbar-brand
+{
+    font-family: 'Pattaya' !important;
+    font-size: 24px !important;
+}
+
+.Newtext
+{
+    font-size:56px;
+    font-family: 'Open_Sans' ;
+}
+.Reshape
+{
+    font-size:18px;
+    color: #616161;
+    font-family: 'Open_Sans' ;
+}
+.btn-download
+{
+    background-image: linear-gradient(#9CA9F9, #CF8BF3, #EAA6C0);
+    border-color:  linear-gradient(#9CA9F9, #CF8BF3, #EAA6C0);
+    color: white;
+    font-size: 16px;
+    border: 2px solid linear-gradient(#9CA9F9, #CF8BF3, #EAA6C0);
+    border-radius:20px !important;
+    font-family: 'Open_Sans' ;
+}
+.box-wh
+{
+    background-color: white;
+    border: 2px solid #EAEAF1;
+    border-radius: 5px;
+}
+.line
+{
+    width: 100%;
+    height: 2pxs;
+    background-color: #EAEAF1;
+}
+.coulstion
+{
+    color: #A5A5B8;
+    font-size: 17px;
+    font-family: 'Open_Sans' ;
+}
